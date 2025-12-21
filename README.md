@@ -6,7 +6,7 @@ A ticket booking system where there is no chance for ticket blackers
 - **Backend**: PHP
 - **Database**: MySQL
 - **Server**: Apache (via XAMPP/WAMP)
-
+Frontend inspired from Abishek Soni
 ## ✨ Features
 
 -  **User Authentication Using NID** – Secure login and logout
@@ -50,3 +50,11 @@ A ticket booking system where there is no chance for ticket blackers
    - Open `http://localhost/Anti Black Ticket System` in your browser
 
 ---
+
+🗝️ **Admin Credentials**: ```gmail: admin@gmail.com password: 123```
+
+## Contact📩
+
+- **👤 Name**: Mir Tasrif Ahmed
+- **📧 Email**: mirtasrif9@gmail.com
+- **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
