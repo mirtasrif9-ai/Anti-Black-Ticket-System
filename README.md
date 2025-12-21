@@ -6,7 +6,7 @@ A ticket booking system where there is no chance for ticket blackers
 - **Backend**: PHP
 - **Database**: MySQL
 - **Server**: Apache (via XAMPP/WAMP)
-Frontend inspired from Abishek Soni
+
 ## ✨ Features
 
 -  **User Authentication Using NID** – Secure login and logout
@@ -17,6 +17,7 @@ Frontend inspired from Abishek Soni
 -  **User Profile** – Manage personal details
 -  **Admin Panel** – Add or manage train data
 -  **QR Code** – Tap to show your Ticket Dynamically
+-  Frontend inspired from Abishek Soni
 
 
 ## 🧑‍💻 Installation
