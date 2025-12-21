@@ -63,4 +63,4 @@ A ticket booking system where there is no chance for ticket blackers
 ## 📸 Screenshots
 
 **Homepage**  
-![Homepage](Anti%20Black%20Ticket%20System/assets/screenshots/home.png)
+![Homepage](Anti%20Black%20Ticket%20System/assets/screenshots/Chorolin%20Tickets.mp4)
