@@ -1,0 +1,24 @@
+h1{
+    margin-bottom: 1rem;
+}
+h2{
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+#stations_container{
+grid-column: 1/-1;
+}   
+.station-entry{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+.station-entry .form-group:first-child{
+    flex:1;
+}
+.action-btn{
+    margin-top: 0;
+}

@@ -1,0 +1,149 @@
+.status-badge {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.status-confirmed {
+  background: #dcfce7;
+  color: #059669;
+}
+
+.status-pending {
+  background: #fef3c7;
+  color: #d97706;
+}
+
+.status-canceled {
+  background: #fee2e2;
+  color: #dc2626;
+}
+
+.status-expired {
+  background: #f3f4f6;
+  color: #6b7280;
+}
+.tickets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.ticket-card {
+  background: var(--bg-white);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px var(--shadow-color);
+  padding: 1.5rem;
+  transition: transform 0.2s;
+}
+
+.ticket-card:hover {
+  transform: translateY(-4px);
+}
+
+.ticket-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.ticket-id {
+  font-weight: 600;
+  color: var(--text-dark);
+}
+
+.ticket-route {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0.5rem 0;
+  color: var(--text-dark);
+}
+
+.ticket-info {
+  margin: 0.5rem 0;
+  color: var(--text-color);
+}
+
+.ticket-info-label {
+  font-weight: 600;
+  color: var(--text-dark);
+}
+
+.action-btn {
+  margin-top: 0;
+  text-decoration: none;
+}
+.ticket-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+  align-items: center;
+  flex-wrap: wrap;
+}
+form {
+  flex: 1;
+  display: flex;
+  gap: 0.5rem;
+}
+select[name="new_status"] {
+  width: 50%;
+}
+.download-btn {
+  background: var(--text-dark);
+  color: var(--bg-white);
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s;
+  text-decoration: none;
+}
+
+.download-btn:hover {
+  opacity: 0.9;
+}
+
+.cancel-btn{
+  margin-top: 0;
+  background-color: #ff0000;
+  color: var(--bg-white);
+}
+.cancel-btn:hover{
+  background-color: #ce0303;
+}
+.no-tickets {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 3rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.no-tickets i {
+  font-size: 3rem;
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+
+.no-tickets p {
+  font-size: 1.2rem;
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .tickets-grid {
+    grid-template-columns: 1fr;
+  }
+}
