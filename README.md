@@ -48,7 +48,7 @@ A ticket booking system where there is no chance for ticket blackers
 4. **Run Locally**
    - Place the folder in your server directory (e.g., `htdocs`)
    - Start Apache & MySQL using XAMPP/WAMP
-   - Open `http://localhost/Anti Black Ticket System` in your browser
+   - Open `http://localhost/Anti%20Black%20Ticket%20System` in your browser
 
 ---
 
@@ -63,4 +63,4 @@ A ticket booking system where there is no chance for ticket blackers
 ## 📸 Screenshots
 
 **Homepage**  
-![Homepage](assets/screenshots/home.png)
+![Homepage](Anti%20Black%20Ticket%20System/assets/screenshots/home.png)
