@@ -59,3 +59,8 @@ A ticket booking system where there is no chance for ticket blackers
 - **👤 Name**: Mir Tasrif Ahmed
 - **📧 Email**: mirtasrif9@gmail.com
 - **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
+
+## 📸 Screenshots
+
+**Homepage**  
+![Homepage](assets/screenshots/home.png)
