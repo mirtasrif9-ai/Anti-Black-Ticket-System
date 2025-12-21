@@ -60,7 +60,5 @@ A ticket booking system where there is no chance for ticket blackers
 - **📧 Email**: mirtasrif9@gmail.com
 - **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
 
-## 📸 Screenshots
-
-**Homepage**  
-![Homepage](Anti%20Black%20Ticket%20System/assets/screenshots/Chorolin%20Tickets.mp4)
+## 📸 Video
+(Anti%20Black%20Ticket%20System/assets/screenshots/Chorolin%20Tickets.mp4)
