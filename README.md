@@ -61,4 +61,4 @@ A ticket booking system where there is no chance for ticket blackers
 - **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
 
 ## 📸 Video
-(Anti%20Black%20Ticket%20System/assets/screenshots/Chorolin%20Tickets.mp4)
+[![Watch the demo](assets/screenshots/demo-thumb.png)](https://raw.githubusercontent.com/OWNER/REPO/BRANCH/Anti%20Black%20Ticket%20System/assets/screenshots/Chorolin%20Tickets.mp4)
