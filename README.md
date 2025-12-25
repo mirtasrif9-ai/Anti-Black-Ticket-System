@@ -45,7 +45,8 @@ A ticket booking system where there is no chance for ticket blackers
    $dbname = "railway";
    ```
 
-4. **Run Locally**
+4. **Unzip Stripe** Extract stripe-php.zip located in Anti-Black-Ticket-System/
+5. **Run Locally**
    - Place the folder in your server directory (e.g., `htdocs`)
    - Start Apache & MySQL using XAMPP/WAMP
    - Open `http://localhost/Anti%20Black%20Ticket%20System` in your browser
