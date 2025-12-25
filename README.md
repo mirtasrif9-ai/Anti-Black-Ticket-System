@@ -45,7 +45,7 @@ A ticket booking system where there is no chance for ticket blackers
    $dbname = "railway";
    ```
 
-4. **Unzip Stripe**  
+4. **Unzip Stripe:**  
    Extract stripe-php.zip located in Anti Black Ticket System/vendor/stripe
 
 
