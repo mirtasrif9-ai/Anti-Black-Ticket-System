@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 ## Contact📩
 
 - ** Name**: Mir Tasrif Ahmed
-- ** Email**: mirtasrif9@gmail.com
+- ** Email**: mir.tasrif.cse@gmail.com
 - ** LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
 
 
