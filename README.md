@@ -57,12 +57,12 @@ https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 
 🗝️ **Admin Credentials**: ```gmail: admin@gmail.com password: 123```
 
-## ACKNOWLEDGMENT
+## Acknowledgment 
 Special thanks to the Department of Computer Science 
 and Engineering at Mymensingh Engineering College, 
 University of Dhaka, for academic support. Frontend design of the website was inspired by Abishek Soni
 
-## Contact📩
+## Contact
 
 - ** Name**: Mir Tasrif Ahmed
 - ** Email**: mir.tasrif.cse@gmail.com
