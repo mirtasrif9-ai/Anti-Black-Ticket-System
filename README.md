@@ -60,5 +60,4 @@ https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 - **📧 Email**: mirtasrif9@gmail.com
 - **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
 
-## 📸 Video
-https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
+
