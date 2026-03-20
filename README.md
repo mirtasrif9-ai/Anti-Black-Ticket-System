@@ -1,9 +1,11 @@
 # Anti Black Ticket System
 A ticket booking system where there is no chance for ticket blackers
-## 📸 Video
+## Video
 https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 
-## ✨ Features
+## WorkFlow
+
+## Features
 
 -  **User Authentication Using NID** – Secure login and logout
 -  **Train Listings** – Browse all available trains
@@ -16,7 +18,7 @@ https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 -  Frontend inspired from Abishek Soni
 
 
-## 🧑‍💻 Installation
+## Installation
 
 1. **Clone the Repository**
 
@@ -56,8 +58,8 @@ https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 
 ## Contact📩
 
-- **👤 Name**: Mir Tasrif Ahmed
-- **📧 Email**: mirtasrif9@gmail.com
-- **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
+- ** Name**: Mir Tasrif Ahmed
+- ** Email**: mirtasrif9@gmail.com
+- ** LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
 
 
