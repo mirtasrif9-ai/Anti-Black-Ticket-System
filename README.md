@@ -4,6 +4,7 @@ A ticket booking system where there is no chance for ticket blackers
 https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
 
 ## WorkFlow
+<img width="1101" height="1766" alt="Image" src="https://github.com/user-attachments/assets/824b7f93-7838-4baa-93c2-c4678c9cf5cb" />
 
 ## Features
 
