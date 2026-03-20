@@ -1,4 +1,4 @@
-# Anti Black Ticket System
+# Anti Black Ticket System(Chorolin Tickets) - Prevents Ticket Resale Fraud
 A ticket booking system where there is no chance for ticket blackers
 ## Video
 https://github.com/user-attachments/assets/53886481-a377-4b2f-ada1-ec9b2c941001
