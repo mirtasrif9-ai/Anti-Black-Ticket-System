@@ -64,8 +64,8 @@ University of Dhaka, for academic support. Frontend design of the website was in
 
 ## Contact
 
-- ** Name**: Mir Tasrif Ahmed
-- ** Email**: mir.tasrif.cse@gmail.com
-- ** LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
+- Name: Mir Tasrif Ahmed
+- Email: mir.tasrif.cse@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mir-tasrif-91b0252a4/)
 
 
